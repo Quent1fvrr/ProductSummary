@@ -1,0 +1,59 @@
+{
+    "company": "Airbus",
+    "general_info": {
+        "summary": "Airbus is a global leader in aeronautics, space and related services. It offers the most comprehensive range of passenger airliners and is a European leader providing tanker, combat, transport, and mission aircraft.",
+        "headquarters": "Leiden, Netherlands",
+        "founded": "1970",
+        "key_people": ["Guillaume Faury (CEO)", "René Obermann (Chairman of the Board)"]
+    },
+    "figures": [
+        {
+            "label": "Total Revenue",
+            "value": "$78 billion (2022)"
+        },
+        {
+            "label": "Number of Employees",
+            "value": "134,000 (2023)"
+        },
+        {
+            "label": "Market Capitalization",
+            "value": "$95 billion (2023)"
+        },
+        {
+            "label": "R&D Investment",
+            "value": "$3 billion (2022)"
+        }
+    ],
+    "news": [
+        {
+            "date": "2023-11-01",
+            "headline": "Airbus unveils new zero-emission aircraft",
+            "content": "Airbus has announced a new zero-emission aircraft concept that could enter service by 2035..."
+        },
+        {
+            "date": "2023-10-20",
+            "headline": "Airbus secures 100-plane deal",
+            "content": "Airbus has secured a deal for 100 new aircraft from Airline X, in a move that will bolster its order book..."
+        },
+        {
+            "date": "2023-09-15",
+            "headline": "Airbus to expand into urban air mobility",
+            "content": "Airbus is set to expand its operations into the urban air mobility sector, with plans to develop a line of electric vertical take-off and landing (eVTOL) aircraft..."
+        },
+        {
+            "date": "2023-08-10",
+            "headline": "Airbus partners with tech giants for AI advancements",
+            "content": "In a groundbreaking collaboration, Airbus has partnered with leading tech firms to integrate artificial intelligence into its aircraft systems..."
+        },
+        {
+            "date": "2023-07-22",
+            "headline": "Airbus achieves new safety milestone",
+            "content": "Airbus has reached a new safety milestone with its A320 aircraft family, surpassing 10 million flight hours without an incident..."
+        },
+        {
+            "date": "2023-06-30",
+            "headline": "Airbus launches satellite with unique capabilities",
+            "content": "Airbus Defence and Space has successfully launched a new satellite that offers unprecedented observation and communication capabilities..."
+        }
+    ]
+}
