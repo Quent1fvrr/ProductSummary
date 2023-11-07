@@ -1,6 +1,6 @@
 import requests
 from urllib.parse import urlencode
-import config_key
+import Scraping.config_key as config_key
 
 class GoogleSearchScraper:
     def __init__(self, api_key, cse_id):
